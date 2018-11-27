@@ -1,7 +1,7 @@
 return {
-	name = 'Prylaris/discordlua',
+	name = 'Prylaris/wumpus-cord',
 	version = '1.2.0',
-	homepage = 'https://github.com/Prylaris/discordlua',
+	homepage = 'https://github.com/Prylaris/WumpusCord',
 	dependencies = {
 		'creationix/coro-http@3.0.0',
 		'creationix/coro-websocket@3.1.0',
