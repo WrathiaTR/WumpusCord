@@ -1,11 +1,11 @@
-# Discordlua
+# WumpusCord
 Very powerful library for creating Discord bots in Lua
 
 ***This library is still a work in progress and still has much development todo, as of now the library can break and will have many bugs.***
 
 # Example
 ```lua
-local Discord = require('discordlua')
+local Discord = require('wumpus-cord')
 local client = Discord.Client()
 
 client:on('ready', function()
