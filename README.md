@@ -25,3 +25,6 @@ client:auth('Bot INSERT_TOKEN_HERE')
 
 # License
 MIT
+
+# NOTE:
+Me and my friend will most likley not finish this, but if we do, this repository will be changed up a bit.
